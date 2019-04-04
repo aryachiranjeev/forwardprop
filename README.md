@@ -1,1 +1,2 @@
 # forwardprop
+FORWARDPROPAGATION OF ANN 
